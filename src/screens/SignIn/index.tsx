@@ -16,14 +16,13 @@ export function SignIn() {
     async function handleSignIn() {
 
         try {
-            
-            await signIn();
 
+            await signIn();
+            
         } catch (error) {
+
             Alert.alert(error);
         } 
-            
-        
     }
 
     return (
