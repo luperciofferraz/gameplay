@@ -26,47 +26,7 @@ export function Guilds({ handleGuildSelect } : Props) {
             name: 'Lendários 2',
             icon: 'image.png',
             owner: true
-        },
-
-        {
-            id: '3',
-            name: 'Lendários 3',
-            icon: 'image.png',
-            owner: true
-        },
-
-        {
-            id: '4',
-            name: 'Lendários 4',
-            icon: 'image.png',
-            owner: true
-        },
-
-        {
-            id: '5',
-            name: 'Lendários 5',
-            icon: 'image.png',
-            owner: true
-        },
-
-        {
-            id: '6',
-            name: 'Lendários 6',
-            icon: 'image.png',
-            owner: true
-        },
-
-        {
-            id: '7',
-            name: 'Lendários 7',
-            icon: 'image.png',
-            owner: true
         }
-
-
-
-
-
 
     ]
 
