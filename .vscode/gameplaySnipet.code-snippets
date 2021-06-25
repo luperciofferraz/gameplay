@@ -1,0 +1,39 @@
+// 20210624214418
+// https://gist.githubusercontent.com/rodrigorgtic/ffb64d8f77108cd091835badac0ab58a/raw/535ba06ac4b9fa538ab14e3c27d9157fc83e562b/snippets-react-native-nlw
+
+{
+	"Basic React Native Component": {
+	  "prefix": "rnbc",
+	  "body": [
+		"import React from 'react';",
+		"",
+		"import {",
+		"  View",
+		"} from 'react-native';",
+		"",
+		"import { styles } from './styles';",
+		"",
+		"export function ${TM_DIRECTORY/^.+\\/(.*)$/$1/}(){",
+		"  return (",
+		"    <View>",
+		"",
+		"    </View>",
+		"  );",
+		"}"
+	  ],
+	  "description": "Create the structure of a react native component"
+	},
+	"StyleSheet React Native Object": {
+	  "prefix": "rnso",
+	  "body": [
+		"import { StyleSheet } from 'react-native';",
+		"",
+		"export const styles = StyleSheet.create({",
+		"  container: {",
+		"    flex: 1,",
+		"  }",
+		"});"
+	  ],
+	  "description": "Create a style object with Stylesheet to separate file."
+	}
+  }
