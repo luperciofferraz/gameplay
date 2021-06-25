@@ -26,5 +26,4 @@ export function ListHeader({title, subtitle} : Props ) {
 
     );
 
-
 };

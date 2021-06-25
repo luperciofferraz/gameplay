@@ -51,5 +51,4 @@ export function Guild({data, ...rest} : Props) {
 
     );
 
-
 };

@@ -38,5 +38,4 @@ export function GuildIcon({ guildId, iconId } : Props) {
 
     );
 
-
 };

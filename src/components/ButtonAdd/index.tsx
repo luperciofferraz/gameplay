@@ -1,5 +1,4 @@
 import React from 'react';
-import { View } from 'react-native';
 import { RectButton, RectButtonProperties } from 'react-native-gesture-handler';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
@@ -26,7 +25,6 @@ export function ButtonAdd({...rest} : RectButtonProperties) {
         </RectButton>
 
     );
-
 
 };
 

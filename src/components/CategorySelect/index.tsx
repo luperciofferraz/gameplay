@@ -42,7 +42,6 @@ export function CategorySelect({categorySelected,
 
     );
 
-
 };
 
 

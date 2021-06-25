@@ -14,9 +14,7 @@ import { ListHeader } from '../../components/ListHeader';
 import { ButtonIcon } from '../../components/ButtonIcon';
 import { Load } from '../../components/Load';
 import { theme } from '../../global/styles/theme';
-
 import BannerImg from '../../assets/banner.png';
-
 import { AppointmentProps } from '../../components/Appointment';
 import { api } from '../../services/api';
 

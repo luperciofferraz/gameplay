@@ -56,5 +56,4 @@ export function Member( { data } : Props) {
         </View>
     );
 
-
 };

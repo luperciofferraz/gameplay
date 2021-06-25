@@ -97,6 +97,4 @@ export function Appointment( { data, ...rest }: Props) {
         </RectButton>
 
     );
-
-
 };

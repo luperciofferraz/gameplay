@@ -21,9 +21,7 @@ export function Button({ title, ...rest } : Props) {
         >  
 
             <Text style={styles.title}>
-
                 {title}
-
             </Text>
 
         </RectButton>
